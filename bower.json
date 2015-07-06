@@ -1,0 +1,16 @@
+{
+  "name": "jquery.touch",
+  "main": [
+    "jquery.touch.js",
+    "jquery.touch.min.js"
+  ],
+  "version": "0.2.4",
+  "homepage": "https://github.com/vmpl/jquery.touch",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "touch"
+  ],
+  "license": "MIT"
+}
