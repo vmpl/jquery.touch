@@ -9,6 +9,9 @@
   "moduleType": [
     "node"
   ],
+  "ignore": [
+    "demo"
+  ],
   "keywords": [
     "touch"
   ],
